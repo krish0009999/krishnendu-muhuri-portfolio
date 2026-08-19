@@ -1,0 +1,6 @@
+{
+  "name": "Krishnendu Muhuri Portfolio",
+  "description": "High-definition interactive portfolio for Krishnendu Muhuri, 2nd Year BCA Computer Science student, featuring DSA, C/C++, Python, Java, web development showcases, 3D flip cards, and ambient sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
